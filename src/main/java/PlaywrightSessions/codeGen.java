@@ -19,7 +19,7 @@ public class codeGen {
 //run below command on cmd at present project directory
 // This will launch playwright inspector
 //mvn exec:java -e -D exec.mainClass=com.microsoft.playwright.CLI -D exec.args="codegen https://www.amazon.com"
-//mvn exec:java -e -D exec.mainClass=com.microsoft.playwright.CLI -D exec.args="codegen https://naveenautomationlabs.com/opencart/index.php?route=account/login"
+//mvn exec:java -e -D exec.mainClass=com.microsoft.playwright.CLI -D exec.args="codegen https://academy.naveenautomationlabs.com/"
 // OR
 // Rt. click + run as config>> add env variable as "PWDEBUG=1"
 //OR
